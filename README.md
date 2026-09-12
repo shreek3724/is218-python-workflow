@@ -1,0 +1,2 @@
+# IS218 Assignment 1 Issue 1 README File
+This project involves learning how to use the command line to update, push and pull changes to Github, as well as navigate using python to create tests and learning to navigate the system.
