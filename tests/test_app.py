@@ -5,3 +5,5 @@ def test_add():
 
 def test_add_negatives():
     assert add(-5, -2) == -7
+
+# This file verifies that the add function returns the correct results for normal and negative inputs.
